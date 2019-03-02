@@ -1,0 +1,116 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 6vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Job_card {
+  float: left;
+  position: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 25%;
+  margin: 30px;
+  background-color: rgb(252, 250, 250);
+}
+
+.job_button {
+  color: white;
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  background-color: #282c34;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+.job_button1 {
+  margin-left: 2%;
+  margin-top: 20px;
+  color: white;
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  background-color: #282c34;
+  text-align: center;
+  cursor: pointer;
+}
+.active-job {
+  margin: 0px auto;
+
+  width: 60%;
+}
+.jobs__box {
+  background: rgb(248, 248, 248);
+  padding-bottom: 2rem;
+  border-radius: 5px;
+  box-shadow: -1px 2px 34px -13px rgba(0, 0, 0, 0.75);
+  text-align: left;
+  overflow: hidden;
+  margin-top: 0.1%;
+}
+.job__text {
+  margin-left: 15px;
+}
+.jobs__title {
+  color: #e74c3c;
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  font-weight: 700;
+  padding: 1.8rem 0 0.2rem 0;
+}
+
+.jobs__subtitle {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 0.8rem;
+  letter-spacing: 2px;
+}
+.active-job__button {
+  background: #282c34;
+  color: #fff;
+  padding: 0.5rem 0.7rem;
+  margin: 0 0.2rem;
+  border-radius: 1px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: none;
+  margin-bottom: 50px;
+}
+.fit-picture {
+  width: 250px;
+}
+
+.avatar-icon {
+  font-family: "avatar-icon" !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

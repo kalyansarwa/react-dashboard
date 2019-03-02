@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Carl Smith",
+    "image": "p1.jpg",
+    "title": "UI designer",
+    "company": "Works @ Google.inc",
+    "id": 1
+  },
+  {
+    "name": "Jeslin Betty",
+    "image": "p2.jpg",
+    "title": "Visual designer",
+    "company": "Works @ Infosys",
+    "id": 2
+  },
+  {
+    "name": "John Smith",
+    "image": "p4.jpg",
+    "title": "Freelance designer",
+    "company": "Works @ Verizon",
+    "id": 3
+  },
+  {
+    "name": "Laura Kelly",
+    "image": "p3.jpg",
+    "title": "UI designer",
+    "company": "Works @ Amazon",
+    "id": 4
+  },
+  {
+    "name": "Lara Becker",
+    "image": "p5.jpg",
+    "title": "Visual designer",
+    "company": "Works @ AT&T",
+    "id": 5
+  },
+  {
+    "name": "Roshan",
+    "image": "p6.jpg",
+    "title": "UI designer",
+    "company": "Works @ Zillow",
+    "id": 6
+  },
+  {
+    "name": "Huma Wood",
+    "image": "p7.jpg",
+    "title": "UI designer",
+    "company": "Works @ Wipro",
+    "id": 7
+  }
+]
